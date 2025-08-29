@@ -1,14 +1,16 @@
 # 🚀 Welcome to Accelerate Tech
 
-!Accelerate Tech Logo
 
-Welcome to the official GitHub profile of **Accelerate Tech** — a leading Australian Microsoft Solutions Partner...
+
+Welcome to the official GitHub profile of **Accelerate Tech** — a leading Australian Microsoft Solutions Partner.
 
 ---
 
-## 🌟 Our Mission
+## 🌟 About Us
 
-...leveraging the power of technology to drive positive change...
+Accelerate is an innovative company built on a foundation of doing things differently.
+
+We leverage technology’s potential and deliver faster, cost-effective, and highly efficient outcomes while minimising waste and complexity.
 
 ---
 
@@ -49,4 +51,4 @@ A platform for managing local government software and solutions.
 
 ## 📫 Connect With Us
 
-🌍 Website: [www.acceleratetech.au](Better Outcomes, Faster Delivery, Stronger Results.”_
+🌍 Website: [www.acceleratetech.au]
