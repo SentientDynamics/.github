@@ -1,7 +1,5 @@
 # 🚀 Welcome to Accelerate Tech
 
-
-
 Welcome to the official GitHub profile of **Accelerate Tech** — a leading Australian Microsoft Solutions Partner.
 
 ---
@@ -40,7 +38,6 @@ We help organisations:
 
 A platform for managing local government software and solutions.
 
-![ePlanning Screenshot](assets Stack: Vue.js, Django, PostgreSQL, Azure  
 🔹 Key Features:
 - Digital Planning & Reporting
 - Local Government Integration
